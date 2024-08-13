@@ -1,3 +1,3 @@
-# js-oop-cl
+# js-oop-mtds
 
-[![Build status](https://ci.appveyor.com/api/projects/status/8mh2mbc7goq73b5p?svg=true)](https://ci.appveyor.com/project/Strassee/js-oop-cl)
+[![Build status](https://ci.appveyor.com/api/projects/status/si6cy4l06au1rv8o?svg=true)](https://ci.appveyor.com/project/Strassee/js-oop-mtds)
